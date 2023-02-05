@@ -1,0 +1,26 @@
+ dif between the Docker Swarm and Kubernetes?
+ diff between deploying applications on hosts and containers?
+ Explain the working of the master node in Kubernetes?
+ ETCD in k8s?
+ Ingress network? and how does it work?
+ what is the intresting problem you have faced/solved in k8s?
+ which cloud is the best with k8s?
+ how heapster helps in k8s?
+ draw the k8s architecture and explain the flow with a monilithic archtecture
+
+ Real life scenario based ques:
+
+ 1.Scenario 1: Suppose a company built on monolithic architecture handles numerous products. Now, as we expands in today’s scaling industry, their monolithic architecture started causing problems.
+
+How do you think we can shift from monolithic to microservices and deploy their services containers?
+
+
+2.Scenario 2: Consider a multinational company with a very much distributed system, with a large number of data centers, virtual machines, and many employees working on various tasks.
+
+How do you think can such a company manage all the tasks in a consistent way with Kubernetes?
+
+3.Lets say in a situation where a company wants to increase its efficiency and the speed of its technical operations by maintaining minimal costs. How company cna acheive this?
+
+4. the shift from monolithic to microservices solves the problem from the development side, but increases the problem at the deployment side.
+
+How can we solve the problem on the deployment side?
